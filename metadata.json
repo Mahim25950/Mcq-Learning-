@@ -1,0 +1,5 @@
+{
+  "name": "EduQuest AI: MCQ Learner",
+  "description": "An intelligent MCQ learning application that generates practice questions on various subjects using AI. Users can test their knowledge in Bengali, English, Math, Science, ICT, and Bangladesh & Global Studies.",
+  "requestFramePermissions": []
+}
